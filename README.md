@@ -1,5 +1,5 @@
-# citibike_analysis
-quick and dirty basic stats + viz for my defense slides
+# citibike analysis
+Quick and dirty basic stats + viz for my defense slides.
 
 # Install Python
 
