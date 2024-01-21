@@ -1,7 +1,9 @@
 # citibike analysis
 Quick and dirty basic stats + viz for my defense slides.
 
-# Install Python
+# Install + Setup
+
+## Python
 
 ```
 $ sudo apt install python3-pip python3-venv python3-tk
