@@ -1,5 +1,7 @@
 # citibike analysis
-Quick and dirty basic stats + viz for my defense slides.
+Quick and dirty basic stats + viz for my defense slides, e.g.,:
+
+![trips over NYC](https://github.com/jmftrindade/citibike_analysis/blob/main/citibike.png?raw=true)
 
 # Install + Setup
 
