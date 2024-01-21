@@ -3,6 +3,8 @@ Quick and dirty basic stats + viz for my defense slides, e.g.,:
 
 ![trips over NYC](https://github.com/jmftrindade/citibike_analysis/blob/main/citibike.png?raw=true)
 
+If you're looking for some actual + more in-depth analysis, check out [NYC Citibike repo](https://github.com/toddwschneider/nyc-citibike-data).
+
 # Install + Setup
 
 ## Python
